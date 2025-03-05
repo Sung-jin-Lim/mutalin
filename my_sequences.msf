@@ -1,0 +1,49 @@
+Multalin version 5.4.1
+Copyright I.N.R.A. France 1989, 1991, 1994, 1996
+Published research using this software should cite
+Multiple sequence alignment with hierarchical clustering
+F. CORPET, 1988, Nucl. Acids Res., 16 (22), 10881-10890
+Symbol comparison table: blosum62
+Gap weight: 12
+Gap length weight: 2
+Consensus levels: high=90% low=50%
+Consensus symbols:
+ ! is anyone of IV
+ $ is anyone of LM
+ % is anyone of FY
+ # is anyone of NDQEBZ
+
+ MSF:    134    Check:   0         ..
+ Name: CCPC50         Len:   134  Check: 7173  Weight:  0.71
+ Name: CCRF2C         Len:   134  Check: 1222  Weight:  0.71
+ Name: CCRF2S         Len:   134  Check: 8544  Weight:  1.35
+ Name: CCQF2R         Len:   134  Check: 8341  Weight:  1.12
+ Name: CCQF2P         Len:   134  Check: 1096  Weight:  1.12
+ Name: Consensus      Len:   134  Check: 4972  Weight:  0.00
+
+//
+
+                      1                                                   50
+              CCPC50  QDGDAAKGEK EFN.KCKACH MIQAPDGTDI I.KGGKTGPN LYGVVGRKIA
+              CCRF2C  ..GDAAKGEK EFN.KCKTCH SIIAPDGTEI V.KGAKTGPN LYGVVGRTAG
+              CCRF2S  QEGDPEAGAK AFN.QCQTCH VIVDDSGTTI AGRNAKTGPN LYGVVGRTAG
+              CCQF2R  .EGDAAAGEK VSK.KCLACH TFDQGGAN.. .....KVGPN LFGVFENTAA
+              CCQF2P  .AGDAAVGEK IAKAKCTACH DLNKGGPI.. .....KVGPP LFGVFGRTTG
+           Consensus  ..GDaa.GeK .fn.kC.aCH .i....gt.i .....KtGPn L%GVvgrtag
+
+                      51                                                 100
+              CCPC50  SEEGFK.YGE GILEVAEKNP DLTWTEADLI EYVTDPKPWL VKMTDDKGAK
+              CCRF2C  TYPEFK.YKD SIVALGASG. .FAWTEEDIA TYVKDPGAFL KEKLDDKKAK
+              CCRF2S  TQADFKGYGE GMKEAGAKG. .LAWDEEHFV QYVQDPTKFL KEYTGDAKAK
+              CCQF2R  HKDNYA.YSE SYTEMKAKG. .LTWTEANLA AYVKNPKAFV LEKSGDPKAK
+              CCQF2P  TFAGYS.YSP GYTVMGQKG. .HTWDDNALK AYLLDPKGYV QAKSGDPKAN
+           Consensus  t...%k.Y.e g..e.gakg. .ltWt#..l. .Yv.#Pk.fl .ek.gD.kAk
+
+                      101                               134
+              CCPC50  TKMTFKMGKN QA..DVVAFL AQNSPDAGGD GEAA
+              CCRF2C  TGMAFKLAKG GE..DVAAYL ASVVK..... ....
+              CCRF2S  GKMTFKLKKE ADAHNIWAYL QQVAVRP... ....
+              CCQF2R  SKMTFKLTKD DEIENVIAYL KTLK...... ....
+              CCQF2P  SKMIFRLEKD DDVANVIAYL HTMK...... ....
+           Consensus  .kMtFk$.K. ....#!.A%L .......... ....
+
